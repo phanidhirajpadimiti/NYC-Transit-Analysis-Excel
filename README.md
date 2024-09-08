@@ -1,7 +1,7 @@
 # NYC Transit Analysis Excel
 
 ## Overview
-This Excel workbook provides an analysis of transit delays and breakdowns, focusing on running late incidents, breakdowns, and their causes. The data is visualized through pivot tables and charts to offer insights into patterns and issues.
+This Excel workbook provides an analysis of bus delays and breakdowns, focusing on running late incidents, breakdowns, and their causes. The data is visualized through pivot tables and charts to offer insights into patterns and issues.
 
 ## Contents
 1. **Data Analysis**
